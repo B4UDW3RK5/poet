@@ -1,0 +1,78 @@
+ipoet@black:~ $ cat .banner	/	tilde.black 70
+i                         .....              .....	/	tilde.black 70
+i                         :                      :	/	tilde.black 70
+i                         :  67  6f  70  68  65  :	/	tilde.black 70
+i                            72  3a  2f  2f  74	/	tilde.black 70
+i                      ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄	/	tilde.black 70
+i              ▄▄      █     █ █     █ █     █ █▄▄▄	/	tilde.black 70
+i             ▀  ▀▄▄▀  █     █ █     █ █▀▀▀▀▀▀ █	/	tilde.black 70
+i                      █▄▄▄▄▄█ █▄▄▄▄▄█ █▄▄▄▄▄▄ █▄▄▄▄▄▄	/	tilde.black 70
+i                      █	/	tilde.black 70
+i                            69  6c  64  65  2e	/	tilde.black 70
+i                            62  6c  61  63  6b	/	tilde.black 70
+i                            2f  31  2f  75  73	/	tilde.black 70
+i                         .  65  72  73  2f  70  .	/	tilde.black 70
+i                         :  6f  65  74  00  00  :	/	tilde.black 70
+i                         :....              ....:	/	tilde.black 70
+i	/	tilde.black 70
+ipoet@black:~ $ ls -at1 | head -n5	/	tilde.black	70
+0TChristina Lake - Omega.txt	/users/poet/Christina Lake - Omega.txt	tilde.black	70
+0The Mentor - The Conscience of a Hacker.txt	/users/poet/The Mentor - The Conscience of a Hacker.txt	tilde.black	70
+0Aaron La Lux - Electro SHOCK Therapy.txt	/users/poet/Aaron La Lux - Electro SHOCK Therapy.txt	tilde.black	70
+0LampSwitch - Untitled.txt	/users/poet/LampSwitch - Untitled.txt	tilde.black	70
+0Talia Devora - Electric Feel.txt	/users/poet/Talia Devora - Electric Feel.txt	tilde.black	70
+ipoet@black:~ $ ls -a1	/	tilde.black	70
+1.	/users/poet/	tilde.black	70
+1..	/	tilde.black	70
+0.banner	/users/poet/.banner	tilde.black	70
+0.footer	/users/poet/.footer	tilde.black	70
+0AJK - Lead Us to Haiku (character intro).txt	/users/poet/AJK - Lead Us to Haiku (character intro).txt	tilde.black	70
+0AJK - This is Donovan.txt	/users/poet/AJK - This is Donovan.txt	tilde.black	70
+0Aaron La Lux - Electro SHOCK Therapy.txt	/users/poet/Aaron La Lux - Electro SHOCK Therapy.txt	tilde.black	70
+0B.J. Murphy - A.I.C.U.txt	/users/poet/B.J. Murphy - A.I.C.U.txt	tilde.black	70
+0B.J. Murphy - Goodnight, Farewell.txt	/users/poet/B.J. Murphy - Goodnight, Farewell.txt	tilde.black	70
+0Breeze-Mist - Rapidly Advancing Intelligence.txt	/users/poet/Breeze-Mist - Rapidly Advancing Intelligence.txt	tilde.black	70
+0TChristina Lake - Omega.txt	/users/poet/Christina Lake - Omega.txt	tilde.black	70
+0Edwin T. Hiller - Comminute the body.txt	/users/poet/Edwin T. Hiller - Comminute the body.txt	tilde.black	70
+0Ezekiel9940 - Cyber Icarus.txt	/users/poet/Ezekiel9940 - Cyber Icarus.txt	tilde.black	70
+0FullFil - Cyberpunk.txt	/users/poet/FullFil - Cyberpunk.txt	tilde.black	70
+0Jules AA - you've got mail--{account deleted}.txt	/users/poet/Jules AA - you've got mail--{account deleted}.txt	tilde.black	70
+0LampSwitch - Untitled.txt	/users/poet/LampSwitch - Untitled.txt	tilde.black	70
+0Levon Peter Poe - New Circuitry.txt	/users/poet/Levon Peter Poe - New Circuitry.txt	tilde.black	70
+0Lisa La Grange - Midnight World.txt	/users/poet/Lisa La Grange - Midnight World.txt	tilde.black	70
+0Louche - Binary Stream.txt	/users/poet/Louche - Binary Stream.txt	tilde.black	70
+0Mrslilboo - Cyber Lust.txt	/users/poet/Mrslilboo - Cyber Lust.txt	tilde.black	70
+0Papa Terminus (Collab with Dot Dot) - Dsytopian (Stealing the Crown Jewels).txt	/users/poet/Papa Terminus (Collab with Dot Dot) - Dsytopian (Stealing the Crown Jewels).txt	tilde.black	70
+0Pristine Silence - Rew-Ff.txt	/users/poet/Pristine Silence - Rew-Ff.txt	tilde.black	70
+0Reflectionshadow - Off Shoot Colors.txt	/users/poet/Reflectionshadow - Off Shoot Colors.txt	tilde.black	70
+0Reflectionshadow - The Isotope.txt	/users/poet/Reflectionshadow - The Isotope.txt	tilde.black	70
+0SimmelSnuff - Mirror skies.txt	/users/poet/SimmelSnuff - Mirror skies.txt	tilde.black	70
+0Talia Devora - Electric Feel.txt	/users/poet/Talia Devora - Electric Feel.txt	tilde.black	70
+0The Mentor - The Conscience of a Hacker.txt	/users/poet/The Mentor - The Conscience of a Hacker.txt	tilde.black	70
+0Toskaduende - The Illumination of 2092.txt	/users/poet/Toskaduende - The Illumination of 2092.txt	tilde.black	70
+0William Gibson - Agrippa (A Book of The Dead).txt	/users/poet/William Gibson - Agrippa (A Book of The Dead).txt	tilde.black	70
+0bitfox - gig.txt	/users/poet/bitfox - gig.txt	tilde.black	70
+0bitfox - noon.txt	/users/poet/bitfox - noon.txt	tilde.black	70
+0boned - Sock.txt	/users/poet/boned - Sock.txt	tilde.black	70
+0eeddggyy - Layer 01.txt	/users/poet/eeddggyy - Layer 01.txt	tilde.black	70
+0effie ebbtide - Modem.txt	/users/poet/effie ebbtide - Modem.txt	tilde.black	70
+0forgood62 - Cyber Musings.txt	/users/poet/forgood62 - Cyber Musings.txt	tilde.black	70
+0jonchius - 201506-w1.txt	/users/poet/jonchius - 201506-w1.txt	tilde.black	70
+0jonchius - 201506-w2.txt	/users/poet/jonchius - 201506-w2.txt	tilde.black	70
+0jonchius - 201506-w3.txt	/users/poet/jonchius - 201506-w3.txt	tilde.black	70
+0jonchius - 201506-w4.txt	/users/poet/jonchius - 201506-w4.txt	tilde.black	70
+0jonchius - 201508-h1.txt	/users/poet/jonchius - 201508-h1.txt	tilde.black	70
+0jonchius - 201508-h2.txt	/users/poet/jonchius - 201508-h2.txt	tilde.black	70
+0jonchius - 201509-w1.txt	/users/poet/jonchius - 201509-w1.txt	tilde.black	70
+0jonchius - 201509-w2.txt	/users/poet/jonchius - 201509-w2.txt	tilde.black	70
+0jonchius - 201509-w3.txt	/users/poet/jonchius - 201509-w3.txt	tilde.black	70
+0metaphormachine - Angel in Narcosis.txt	/users/poet/metaphormachine - Angel in Narcosis.txt	tilde.black	70
+0metaphormachine - Fools Like Us.txt	/users/poet/metaphormachine - Fools Like Us.txt	tilde.black	70
+0xyloolyx - alienation.txt	/users/poet/xyloolyx - alienation.txt	tilde.black	70
+ipoet@black:~ $ cat .footer	tilde.black	70
+i	/	tilde.black 70
+i                          :::   :::   :::	/	tilde.black	70
+i	/	tilde.black	70
+i                     submit 2 poet@tilde.black	/	tilde.black	70
+i             all poetry republished without permission	/	tilde.black	70
+i                      u can't stop the signal	/	tilde.black	70
